@@ -1,0 +1,4 @@
+Scenario,Blended App → Offer Probability,Expected Apps to First Offer,Apps for 25% Chance,Apps for 50% Chance,Apps for 70% Chance,Apps for 80% Chance,Apps for 90% Chance
+Pessimistic,0.001035,966.1835748792272,278,670,1163,1555,2224
+Base Case,0.0019484999999999997,513.2152938157558,148,356,618,826,1181
+Optimistic,0.003345,298.95366218236177,86,207,360,481,688

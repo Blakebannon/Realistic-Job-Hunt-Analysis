@@ -1,0 +1,4 @@
+Category,App → Screen Low,App → Screen Base,App → Screen High,Screen → Loop,Loop → Offer,App → Offer Low,App → Offer Base,App → Offer High
+Data Analyst / Revenue Analytics,0.02,0.035,0.055,0.5,0.18,0.0018,0.00315,0.0049499999999999995
+Data Science / Applied Analytics,0.008,0.015,0.03,0.45,0.15,0.00054,0.0010125,0.002025
+AI / RAG / Agentic AI,0.01,0.022,0.04,0.45,0.17,0.0007650000000000002,0.001683,0.0030600000000000007

@@ -1,0 +1,4 @@
+Scenario,App → Offer Probability,Expected Apps to First Offer,Apps for 25% Chance,Apps for 50% Chance,Apps for 70% Chance,Apps for 80% Chance,Apps for 90% Chance
+Very Harsh Market,0.0025,400.0,115,277,481,643,920
+Brutal Cold Market,0.0015,666.6666666666666,192,462,803,1073,1534
+Near Worst Case,0.001,1000.0,288,693,1204,1609,2302

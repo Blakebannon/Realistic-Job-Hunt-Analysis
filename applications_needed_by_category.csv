@@ -1,0 +1,10 @@
+Category,Scenario,App → Offer Probability,Expected Apps to First Offer,Apps for 25% Chance,Apps for 50% Chance,Apps for 70% Chance,Apps for 80% Chance,Apps for 90% Chance
+Data Analyst / Revenue Analytics,Pessimistic,0.0018,555.5555555555555,160,385,669,894,1279
+Data Analyst / Revenue Analytics,Base Case,0.00315,317.46031746031747,92,220,382,511,730
+Data Analyst / Revenue Analytics,Optimistic,0.0049499999999999995,202.02020202020205,58,140,243,325,465
+Data Science / Applied Analytics,Pessimistic,0.00054,1851.8518518518517,533,1284,2229,2980,4263
+Data Science / Applied Analytics,Base Case,0.0010125,987.6543209876544,284,685,1189,1589,2274
+Data Science / Applied Analytics,Optimistic,0.002025,493.8271604938272,142,342,594,794,1136
+AI / RAG / Agentic AI,Pessimistic,0.0007650000000000002,1307.1895424836598,376,906,1574,2104,3009
+AI / RAG / Agentic AI,Base Case,0.001683,594.1770647653001,171,412,715,956,1367
+AI / RAG / Agentic AI,Optimistic,0.0030600000000000007,326.79738562091495,94,227,393,526,752

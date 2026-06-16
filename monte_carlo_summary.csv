@@ -1,0 +1,5 @@
+Scenario,Offer Rate Within Projection Window,Median Days to First Offer,70th Percentile Days,80th Percentile Days,90th Percentile Days,Median Application Number That Led to Offer,80th Percentile Application Number,90th Percentile Application Number
+Optimistic,1.0,93.0,106.0,116.0,133.0,250.0,537.0,741.0
+Base Case,0.9963,105.0,127.0,143.0,171.0,386.0,850.0,1168.0
+Pessimistic,0.95,129.0,164.0,191.0,229.0,646.0,1403.2000000000007,1859.0
+Brutal Cold Market,0.9867,114.0,141.0,163.0,198.0,483.0,1083.0,1487.3999999999996
